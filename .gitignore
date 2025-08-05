@@ -13,6 +13,14 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
+.DS_Store
+*.swp
+*.swm
+*.xcuserstate
+*.xcuserdatad
+*.xcscmblueprint
+*.xcscmblueprint.lock   
+
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
